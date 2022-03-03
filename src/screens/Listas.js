@@ -2,8 +2,8 @@ import React from 'react';
 import { TouchableOpacity, View, FlatList, Text, Image } from 'react-native';
 import md5 from 'js-md5';
 
-const PUBLIC_KEY = 'c00e4ccbb83c3aef534ff12c68bd6739';
-const PRIVATE_KEY = '352da5b036e1cea1bcc2310939e39325774267f6';
+const PUBLIC_KEY = 'COLOQUE SUA KEY';
+const PRIVATE_KEY = 'COLOQUE SUA KEY';
 
 const Listas = ({ navigation }) => {
   const [data, setData] = React.useState([]);
