@@ -1,4 +1,5 @@
 import { StyleSheet } from 'react-native';
+import React from 'react';
 
 import Listas from './src/screens/Listas';
 import Detalhes from './src/screens/Detalhes';
